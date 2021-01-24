@@ -3,3 +3,9 @@ Esta es la historia de Jhan García
 Jhan tiene 23 años y nació en Colombia, en la ciudad de Villavicencio
 
 Hoy hablaremos de su vida y obra maestra.
+
+Una cosa interesante es que Jhan ya trabajó en el branch
+y ahora mismo está trabajando en el master original
+
+Esperemos el resultado final para saber cómo queda la nueva versión y así poder
+aprender a hacer un merge
