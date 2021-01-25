@@ -4,8 +4,16 @@ Jhan tiene 23 años y nació en Colombia, en la ciudad de Villavicencio
 
 Hoy hablaremos de su vida y obra maestra.
 
+<<<<<<< HEAD
 Una cosa interesante es que Jhan ya trabajó en el branch
 y ahora mismo está trabajando en el master original
 
 Esperemos el resultado final para saber cómo queda la nueva versión y así poder
 aprender a hacer un merge
+=======
+Jhan vive con sus padres en Villavicencio, tiene 2 hermanos llamados Yesid y Cristian
+Una novia hermosa que se llama Sofía
+
+Jhan en este momento trabaja desde un Branch para luego poder funcionar todo
+con el Master del proyecto y saber cuál es la nueva versión
+>>>>>>> cabecera
