@@ -18,3 +18,6 @@ Una novia hermosa que se llama Sofía
 Jhan en este momento trabaja desde un Branch para luego poder funcionar todo
 con el Master del proyecto y saber cuál es la nueva versión
 >>>>>>> cabecera
+
+aqui el nuevo trabajador está realizando un trabajito desde el FOOTER
+para poder subirlo y hacer merge con el trabajo hecho desde el header
