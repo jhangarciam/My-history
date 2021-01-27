@@ -19,9 +19,14 @@ Jhan en este momento trabaja desde un Branch para luego poder funcionar todo
 con el Master del proyecto y saber cuál es la nueva versión
 >>>>>>> cabecera
 
+<<<<<<< HEAD
 
 
 
 Ahora estoy trabajando desde el HEADER
 para luego hacer un merge desde el master y poder unir
 el trabajo hecho desde el footer y desde aca en HEADER
+=======
+aqui el nuevo trabajador está realizando un trabajito desde el FOOTER
+para poder subirlo y hacer merge con el trabajo hecho desde el header
+>>>>>>> footer
