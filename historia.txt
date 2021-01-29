@@ -21,7 +21,7 @@ con el Master del proyecto y saber cuál es la nueva versión
 
 <<<<<<< HEAD
 
-Acá estoy haciendo un cambio en la nueva rama, o nuevo Branch que acabo de crear llamada fix-typo, HICE UN NUEVO CAMBIO
+Acá estoy haciendo un cambio en la nueva rama, o nuevo Branch que acabo de crear llamada fix-typo, HICE UN NUEVO CAMBIO, para la V 3.0
 
 Ahora estoy trabajando desde el HEADER
 para luego hacer un merge desde el master y poder unir
