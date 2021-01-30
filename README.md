@@ -1,5 +1,5 @@
 # My history 😄
-Una prueba de lo que hasta el momento sé hacer en programación mientras aprendo más
+Una prueba de lo que hasta el momento sé hacer en programación mientras aprendo más.
 
 *Quiero que esta parte vaya solamente en cursiva*
 **Quiero que esta vaya en negrilla**
