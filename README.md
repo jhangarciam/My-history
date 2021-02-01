@@ -13,6 +13,8 @@ Acá podemos editar un poco más lo que iría en nuestro README de GitHub y pode
 Estoy escribiendo esto mientras miro mi clase con Freddy y practico desde mi pc.
 *Acá podemos editar y poner un nuevo texto
 *Acá hay otro más que se puede poner
+*Incluye ejemplos en linux, windows y mac
+*Disponibles para todas las edades
 
 > Podemos poner emojis dentro de nuestro Readme.md a través de una pagina llamada getmoji.com; y podemos usar emojis tales como:
 
